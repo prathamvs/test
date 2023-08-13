@@ -1,1 +1,0 @@
-"{{#user} Name:Prathamesh Suryavasnhi Skills:HTML,CSS,JS,Django,Python Email:praathamvs2003@gmail.com {{/user}}" 
